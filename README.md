@@ -1,7 +1,7 @@
 ## Hi there 👋
 ### My name is Alex
 
-I'm indie developer with more than 7 years of experience.
+I'm indie developer with more than 8 years of experience.
 
 I love Ruby 💎, Rust 🦀 and JS from time to time.
 
